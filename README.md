@@ -41,15 +41,6 @@
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-# Demo
-
-### Version 3.0 (latest): <a href="https://advocate-ai.streamlit.app/">Click Here</a>
-### Version 2.0: <a href="https://advo-hehe.pages.dev/">Click Here</a>
-### Version 1.0: <a href="https://advo-ai.pages.dev/">Click Here</a>
-### Login Credentials = 
-			username: hello@gmail.com, 
-			password: password
-
 # Video
 ### Promo Video: <a href="https://youtu.be/j869V86b8xw">Click Here</a>
 ### Version 1 Demo Video: <a href="https://drive.google.com/file/d/1ayP8ewKIUgUNJh2TEm-kUXHYxOdhNF30/view?usp=sharing">Click Here</a>
@@ -95,10 +86,4 @@
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-[![Contributors][contributors-image]][contributors-link]
 
-[contributors-image]: https://contrib.rocks/image?repo=TheCleverIdiott/advo
-[contributors-link]: https://github.com/TheCleverIdiott/advo/graphs/contributors
-
-
-<img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/bottom.svg">

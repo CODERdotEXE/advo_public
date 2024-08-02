@@ -2,7 +2,7 @@
 
 <div align='center'>
 <h1>advocate.ai</h1>
-<h3>SIH 2023 Winning Project</h3>
+<h3>SIH 2023 Winning Project 🏆</h3>
 <h2><a href="#demo">Deployed Link</a>  | <a href="https://youtu.be/j869V86b8xw">Video</a> | <a href="#">PPT</a>
 </h2>	
 </div>
